@@ -1,34 +1,103 @@
 .container {
   background-color: #f0f0f0;
-  background-image: url("T1.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-
-  border: solid blue;
-  /* margin: 20px; */
-  padding: 20px;
+  border: solid grey;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
 }
 
 .title {
-  /* background-color: #dcdcdc; */
-  border: solid red;
-  border-width: 10px;
-  margin: 20px;
-  padding: 20px;
+  background-color: #b0b0b0;
+  border: solid black;
+  border-width: 2px;
+  margin: 10px;
+  padding: 10px;
 }
 
 .parrafo1 {
+  background-color: #b0b0b0;
   border: solid black;
-  border-width: 10px;
-  margin: 20px;
-  padding: 20px;
-  background-color: #c8c8c8;
+  border-width: 2px;
+  margin: 10px;
+  padding: 10px;
 }
 
 .parrafo2 {
-  border: solid green;
-  border-width: 10px;
-  margin: 20px;
-  padding: 20px;
   background-color: #b0b0b0;
+  border: solid black;
+  border-width: 2px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.parrafo3 {
+  background-color: #b0b0b0;
+  border: solid black;
+  border-width: 2px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.title1 {
+  background-color: #b0b0b0;
+  border: solid black;
+  border-width: 2px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.parrafo4 {
+  background-color: #b0b0b0;
+  border: solid black;
+  border-width: 2px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.parrafo5 {
+  background-color: #b0b0b0;
+  border: solid black;
+  border-width: 2px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.parrafo6 {
+  background-color: #b0b0b0;
+  border: solid black;
+  border-width: 2px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.parrafo7 {
+  background-color: #b0b0b0;
+  border: solid black;
+  border-width: 2px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.parrafo8 {
+  background-color: #b0b0b0;
+  border: solid black;
+  border-width: 2px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.title2 {
+  background-color: #b0b0b0;
+  border: solid black;
+  border-width: 2px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.parrafo9 {
+  background-color: #b0b0b0;
+  border: solid black;
+  border-width: 2px;
+  margin: 10px;
+  padding: 10px;
 }
