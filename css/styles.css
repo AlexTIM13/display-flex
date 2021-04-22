@@ -1,0 +1,34 @@
+.container {
+  background-color: #f0f0f0;
+  background-image: url("T1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  border: solid blue;
+  /* margin: 20px; */
+  padding: 20px;
+}
+
+.title {
+  /* background-color: #dcdcdc; */
+  border: solid red;
+  border-width: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.parrafo1 {
+  border: solid black;
+  border-width: 10px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #c8c8c8;
+}
+
+.parrafo2 {
+  border: solid green;
+  border-width: 10px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #b0b0b0;
+}
